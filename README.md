@@ -61,7 +61,7 @@ Before 2014, we invested [Bitshares](https://bitshares.org/), [yunbi.com](https:
 
 ## 8. Why open-source my investing principles?
 
-Investment is by far the most risky activity, because every aspect it requires cannot be genetically inherited.
+Investment is by far the riskiest activity because every aspect it requires cannot be genetically inherited.
 
 The birth of every true innovation is followed by many copycats and frauds. This is especially true when the innovation comes with inherent financial functionality.
 
@@ -85,6 +85,6 @@ That's all; the simplest questions tend to need the toughest thinking to get to 
 
 ## 10. Two Analogies
 
-When one looks into the mirror, every thing looks exactly same, but in fact everything is reversed, not only the objects, but also the order. Investment might well be thought of as happening in the "mirror”: every detail in the mirror looks familiar and simple, but naive investors don't know they are in the mirror world - they don't know what they see in the mirror doesn't operate like it does in the outside world. More often than not, opportunities look like danger, and bait smells like cheese.
+When one looks into the mirror, every thing looks exactly same, but in fact, everything is reversed, not only the objects but also the order. The investment might well be thought of as happening in the "mirror”: every detail in the mirror looks familiar and straightforward, but naive investors don't know they are in the mirror world - they don't know what they see in the mirror doesn't operate as it does in the outside world. More often than not, opportunities look like danger, and bait smells like cheese.
 
 Another good analogy is to driving a car. If you are an Australian and trying to drive in the United States, you will get uncomfortable and often confused, since you are accustomed to driving on the left. Even worse, you might get yourself killed if you don’t prepare yourself for the new rules. So, **be careful** driving on the other side!
